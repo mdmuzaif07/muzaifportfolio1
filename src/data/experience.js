@@ -1,0 +1,48 @@
+export const experiences = [
+  {
+    id: '01',
+    role: 'Trainee',
+    company: 'Zephyr Technologies',
+    location: 'Bangalore',
+    focus: 'Digital Marketing • Web Development • Graphic Designing • Business Analysis',
+    responsibilities: [
+      'SEO',
+      'Social media marketing',
+      'Content creation',
+      'Graphic design',
+      'Web development',
+      'Paid advertising',
+      'Business analysis',
+      'Client-oriented digital solutions',
+    ],
+  },
+  {
+    id: '02',
+    role: 'Digital Marketing Intern',
+    company: 'Freelance Projects',
+    location: '',
+    focus: 'Digital Marketing',
+    responsibilities: [
+      'Social media campaigns',
+      'Keyword research',
+      'On-page SEO',
+      'Content creation',
+      'Analytics',
+      'Campaign insights',
+    ],
+  },
+  {
+    id: '03',
+    role: 'Graphic Designer & Content Creator',
+    company: 'Freelance',
+    location: '',
+    focus: 'Design • Content',
+    responsibilities: [
+      'Social media creatives',
+      'Logos',
+      'Banners',
+      'Marketing materials',
+      'Brand consistency',
+    ],
+  },
+]
