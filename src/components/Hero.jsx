@@ -73,11 +73,11 @@ export default function Hero() {
           </p>
 
           <h1 className="reveal font-display text-[clamp(3.2rem,11vw,9.5rem)] font-bold leading-[0.92] tracking-tightest text-text">
-            <span className="block">Building Digital</span>
+            <span className="block text-[0.75em]">Mohammad</span>
 
             <span className="block">
-              <span className="gradient-text">Experiences</span>
-              <span className="text-accent">.</span>
+            <span className="gradient-text text-[1.25em]">Muzaif</span>
+            <span className="text-accent">.</span>
             </span>
           </h1>
 
